@@ -1,0 +1,6 @@
+https://medium.com/@MicroPyramid/extract-text-with-ocr-for-all-image-types-in-python-using-pytesseract-ec3c53e5fc3a
+https://emop.tamu.edu/Installing-Tesseract-Windows8
+https://www.quora.com/How-do-I-install-Tesseract-OCR-on-windows-10
+https://github.com/UB-Mannheim/tesseract/wiki
+https://stackoverflow.com/questions/20060096/installing-pil-with-pip
+https://stackoverflow.com/questions/39487898/python-filenotfounderror-when-using-pytesseract
